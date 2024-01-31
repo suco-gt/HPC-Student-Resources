@@ -9,7 +9,7 @@ If you find any other opportunities from outside this document, feel free to mak
 To find internship and fellowship opportunities in HPC, please refer to this [link](https://github.com/suco-gt/HPC-Internships), which contains a list of many opportunities in industry & academic settings for becoming involved in HPC. 
 
 ### GT Vertically Integrated Projects (VIPs)
-At GT, Vertically Integrated Projects (VIPs) are intended to give students hands-on experiences in different areas of computing. We've listed several VIPs that directly involve HPC, so that 
+At GT, Vertically Integrated Projects (VIPs) are intended to give students hands-on experiences in different areas of computing. Some of the VIPs that involve HPC are listed below. 
 
 |**Vertically Integrated Projects**|
 |----------------------------------|
