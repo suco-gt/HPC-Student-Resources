@@ -1,6 +1,6 @@
 # GT HPC Student Resources
 
-At GT Supercomputing, one of our major goals is to offer awareness on opportunities in HPC. This document is intended as a fully-fledged guide on all opportunities related to HPC at GT, including internship & fellowship opportunities, professors at GT, classes at GT, conferences in HPC, and more!
+At Supercomputing @ Georgia Tech, one of our major goals is to offer awareness of opportunities in HPC. This document is intended as a fully-fledged guide on all opportunities related to HPC at GT, including internship & fellowship opportunities, professors at GT, classes at GT, conferences in HPC, and more!
 Please note that this document is **not** complete, and we are constantly adding new opportunities to this list! 
 
 If you find any other opportunities from outside this document, feel free to make a pull request or let us know at supercomputing.gt@gmail.com.
@@ -8,7 +8,7 @@ If you find any other opportunities from outside this document, feel free to mak
 ### HPC Internship and Fellowship Opportunities
 To find internship and fellowship opportunities in HPC, please refer to this [link](https://github.com/suco-gt/HPC-Internships), which contains a list of many opportunities in industry & academic settings for becoming involved in HPC. 
 
-### GT Vertically Integrated Projects (VIPs)
+### Georgia Tech Vertically Integrated Projects (VIPs)
 At GT, Vertically Integrated Projects (VIPs) are intended to give students hands-on experiences in different areas of computing. Some of the VIPs that involve HPC are listed below. 
 
 |**Vertically Integrated Projects**|
@@ -19,8 +19,8 @@ At GT, Vertically Integrated Projects (VIPs) are intended to give students hands
 |[Machine Learning for Financial Markets](https://www.vip.gatech.edu/teams/vxv)|
 |[Quantum Engineering](https://www.vip.gatech.edu/teams/vyc)|
 
-### GT Faculty Researchers
-Getting involved in HPC research is one of the best ways to get hands-on experience in HPC. Here, we've listed some professors who work on many different aspects of HPC research at GT. (NotE: We are still in the process of adding to this list as there are a lot of professors who use supercomputing clusters to aid their research efforts.)
+### Georgia Tech Faculty Researchers
+Getting involved in HPC research is one of the best ways to get hands-on experience in HPC. Here, we've listed some professors who work on many different aspects of HPC research at GT. (Note: We are still in the process of adding to this list as there are a lot of professors who use supercomputing clusters to aid their research efforts.)
 
 |**Faculty Member**|**Department**|**Interests**|
 |------------------|--------------|-------------|
@@ -39,7 +39,7 @@ Getting involved in HPC research is one of the best ways to get hands-on experie
 |[Ada Gavrilovska](http://www.cc.gatech.edu/~ada)|College of Computing|Systems|
 |[Santosh Pande](https://sites.google.com/site/profsantoshpande/)|College of Computing|Compiler Analysis and Optimizations|
 
-### GT Classes 
+### Georgia Tech Classes 
 Thanks to GT's amazing faculty, the CSE and CS departments are able to offer many courses related to HPC. Many of us have taken and enjoyed these classes, and we hope that you can as well!
 |**Class ID**|**Class Name**|
 |------------|--------------|
@@ -67,7 +67,7 @@ Thanks to GT's amazing faculty, the CSE and CS departments are able to offer man
 |AE6779, ISYE 6779|Dynamic System Simulation and Modeling|
 
 ### HPC Conferences
-Many of the members of GT Supercomputing have had extremely positive experiences at various HPC conferences, which give students a chance to network, learn about research, and potentially find new opportunities in HPC. We encourage students interested in HPC to attend these conferences if at possible, whether they are presenting research or simply attending. 
+Many of the members of Supercomputing @ GT have had extremely positive experiences at various HPC conferences, which give students a chance to network, learn about research, and potentially find new opportunities in HPC. We encourage students interested in HPC to attend these conferences if at possible, whether they are presenting research or simply attending. 
 |**Name**|**Description**|
 |--------|---------------|
 |**[ACM/IEEE SC (Supercomputing Conference)](https://supercomputing.org)**|Largest supercomputing conference held yearly in the US. Will be held in Atlanta in 2024! Includes research papers and a trade show for industry, includes upwards of 13,000 attendees.
