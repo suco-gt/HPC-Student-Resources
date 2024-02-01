@@ -13,6 +13,7 @@ At GT, Vertically Integrated Projects (VIPs) are intended to give students hands
 
 |**Vertically Integrated Projects**|
 |----------------------------------|
+|[Team Phoenix - Student Cluster Competitions](https://www.vip.gatech.edu/teams/vwp)|
 |[Future Computing with Rogues Gallery](https://www.vip.gatech.edu/teams/vwa)|
 |[NLP for Financial Markets ](https://www.vip.gatech.edu/teams/vxu)|
 |[Machine Learning for Financial Markets](https://www.vip.gatech.edu/teams/vxv)|
