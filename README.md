@@ -20,7 +20,7 @@ At GT, Vertically Integrated Projects (VIPs) are intended to give students hands
 |[Quantum Engineering](https://www.vip.gatech.edu/teams/vyc)|
 
 ### GT Faculty Researchers
-Getting involved in HPC research is one of the best ways to get hands-on experience in HPC. Here, we've listed some professors who work on many different aspects of HPC research at GT. 
+Getting involved in HPC research is one of the best ways to get hands-on experience in HPC. Here, we've listed some professors who work on many different aspects of HPC research at GT. (NotE: We are still in the process of adding to this list as there are a lot of professors who use supercomputing clusters to aid their research efforts.)
 
 |**Faculty Member**|**Department**|**Interests**|
 |------------------|--------------|-------------|
