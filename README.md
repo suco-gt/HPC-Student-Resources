@@ -6,7 +6,7 @@ Please note that this document is **not** complete, and we are constantly adding
 If you find any other opportunities from outside this document, feel free to make a pull request or let us know at supercomputing.gt@gmail.com.
 
 ### HPC Internship and Fellowship Opportunities
-To find internship and fellowship opportunities in HPC, please refer to this [link](https://github.com/suco-gt/HPC-Internships), which contains a list of many opportunities in industry & academic settings for becoming involved in HPC. 
+To find internship and fellowship opportunities in HPC, please refer to this [link](https://github.com/suco-gt/HPC-Internships), which contains a list of many opportunities in industry, national labs, supercomputing centers, & academic settings for becoming involved in HPC. 
 
 ### Georgia Tech Vertically Integrated Projects (VIPs)
 At GT, Vertically Integrated Projects (VIPs) are intended to give students hands-on experiences in different areas of computing. Some of the VIPs that involve HPC are listed below. 
